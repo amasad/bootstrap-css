@@ -11,9 +11,9 @@
     "bootstrap-css.css"
   ],
   "fonts": [
-    "fonts/glyphicons-halfings-regular.eot",
-    "fonts/glyphicons-halfings-regular.svg",
-    "fonts/glyphicons-halfings-regular.ttf",
-    "fonts/glyphicons-halfings-regular.woff"
+    "fonts/glyphicons-halflings-regular.eot",
+    "fonts/glyphicons-halflings-regular.svg",
+    "fonts/glyphicons-halflings-regular.ttf",
+    "fonts/glyphicons-halflings-regular.woff"
   ]
 }
