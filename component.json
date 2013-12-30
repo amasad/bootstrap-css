@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-css",
+  "repo": "amasad/bootstrap-css",
+  "description": "Bootstrap main css and fonts",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "bootstrap-css.css"
+  ],
+  "fonts": [
+    "fonts/glyphicons-halfings-regular.eot",
+    "fonts/glyphicons-halfings-regular.svg",
+    "fonts/glyphicons-halfings-regular.ttf",
+    "fonts/glyphicons-halfings-regular.woff",
+  ]
+}
